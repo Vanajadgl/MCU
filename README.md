@@ -1,1 +1,1 @@
-# MCU
+Designed an MCU Power Supply circuit using Altium Designer to provide stable and regulated power to the microcontroller and peripheral circuits. Developed the schematic with voltage regulators, decoupling capacitors, filtering, and protection components. Ensured proper power distribution and reliable operation of the MCU and connected modules.
